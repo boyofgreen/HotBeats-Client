@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="net.azurewebsites.btdj" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <icon height="150" src="/images/logo.scale-100.png" width="150" />
+    <icon height="50" src="/images/storelogo.scale-100.png" width="50" />
+    <icon height="44" src="/images/smalllogo.scale-100.png" width="44" />
+    <splash height="300" src="/images/splashscreen.scale-100.png" width="620" />
+    <name>HotBeats</name>
+    <description>
+        A sample Apache Cordova application that responds to the deviceready event.
+    </description>
+    <author email="dev@cordova.apache.org" href="http://cordova.io">
+        Apache Cordova Team
+    </author>
+    <content src="http://btdj.azurewebsites.net/index.html" />
+    <access origin="*" />
+    <allow-intent href="tel:*" />
+    <allow-intent href="sms:*" />
+    <allow-intent href="mailto:*" />
+    <allow-intent href="geo:*" />
+    <allow-navigation hap-rule="yes" href="http://www.hotbeats.com/*" />
+    <allow-navigation hap-rule="yes" href="http://btdj.azurewebsites.net" />
+</widget>

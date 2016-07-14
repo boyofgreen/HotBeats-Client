@@ -1,0 +1,10 @@
+{
+    "generationTool": "manifoldjs",
+    "generationToolVersion": "0.6.0",
+    "platformId": "firefox",
+    "platformPackage": "manifoldjs-firefox",
+    "platformVersion": "0.1.3",
+    "generatedFrom": "CLI",
+    "generationDate": "2016-07-14 16:04:30 Z",
+    "generatedURL": "http://btdj.azurewebsites.net/manifest.json"
+}

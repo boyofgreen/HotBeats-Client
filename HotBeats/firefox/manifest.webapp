@@ -1,0 +1,8 @@
+{
+    "name": "Hot Beats",
+    "description": "Hot Beats",
+    "launch_path": "/index.html",
+    "icons": {
+        "128": "128x128.png"
+    }
+}
